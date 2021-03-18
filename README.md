@@ -1,4 +1,4 @@
-### Hi there! My name's Jason. My background is in GIS, and over the last few years I've been working at the intersection of Data Science, Software, and GIS at @FreightWaves.
+### Hi there! My background is in GIS, and over the last few years I've been working at the intersection of Data Science, Software, and GIS at @FreightWaves.
 
 Tooling I'm particularly enjoying working with right now: Python, TypeScript, Vue.js, and Golang.
 
